@@ -1,0 +1,18 @@
+00
+Cons:
+Lacks input handling outside of ints. If you type a word it will use all guesses and say they are each too high
+No comments
+Poor variable naming
+Pros:
+Uses for loop
+
+01
+Notes:
+Uses #define to define variables
+
+Pros:
+Specific invalid input (out of range vs type error)
+Non redundent comments
+Cons:
+Lots of comment bloat up top
+

@@ -1,0 +1,21 @@
+00
+Cons:
+Lacks input handling outside of ints. If you type a word it will use all guesses and say they are each too high
+No comments especially for tough abstractions
+Poor variable naming
+Pros:
+Uses for loop
+
+01
+Notes:
+defines variable inside of main using int
+Pros:
+Worked Perfectly. Edge cases handled, and now reprompts upon invalid input.
+Ints outside range 1 to 10 are now invalid input
+Handles EOF
+
+
+
+Cons:
+2 While loops. Necessary though to reprompt until proper input
+Long Restated Comments
